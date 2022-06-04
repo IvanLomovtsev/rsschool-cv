@@ -23,6 +23,8 @@ function multiply(a, b){
   return a * b
 }
 ```
+## My Project
+Developing [CV](https://github.com/IvanLomovtsev/rsschool-cv "CV by Ivan Lomovtsev") and updating it as skills improve
 ## Education
 * **University:** Master, Ural Federal University, Ekaterinburg
 * **Rolling Scopes School:** [JavaScript/Front-end Course. Stage 0 by RS School](https://wearecommunity.io/events/js-stage0-rs-2022q2 "JavaScript/Front-end Course. Stage 0") (in process...)
