@@ -1,6 +1,6 @@
 # Lomovtsev Ivan
 ## Junior Frontend Developer
-***
+
 ## Contacts:
 * **Location:** Ekaterinburg, Russia
 * **Email:** i.d.lomovtsev@gmail.com
