@@ -28,4 +28,4 @@ function multiply(a, b){
 * **Rolling Scopes School:** [JavaScript/Front-end Course. Stage 0 by RS School](https://wearecommunity.io/events/js-stage0-rs-2022q2 "JavaScript/Front-end Course. Stage 0") (in process...)
 * **Stepik:** [Web Development for Beginners: HTML and CSS](https://stepik.org/course/38218/syllabus "Web Development for Beginners: HTML and CSS")
 ## English
-A2 (I can read and translate technical documentation with a dictionary, I try to improve my English language proficiency))
+A2 (I can read and translate technical documentation with a dictionary, I try to improve my English language proficiency)
